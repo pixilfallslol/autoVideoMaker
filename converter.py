@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-folder = r"C:\Users\brado\Downloads\video essientals\code\autoVideoMaker\output"
+folder = r"input-your-own-folder-here"
 output_file = "output.mp4"
 frame_rate = 30
 
